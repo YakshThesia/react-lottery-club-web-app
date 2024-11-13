@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "lottery-club-9ecc0"
+  },
+  "targets": {
+    "lottery-club-9ecc0": {
+      "hosting": {
+        "app": [
+          "app-lottery-club"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
